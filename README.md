@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on: Database structeres and algorithms
 - 🌱 I’m currently learning: System software
 - 📫 How to reach me: d.jastrzebski21@gmail.com
-- 
 <!---
 DawJas/DawJas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
