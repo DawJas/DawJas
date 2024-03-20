@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DawJas
 - 👀 I’m interested in C++ and low level programing
-- 🔭 I’m currently working on: Database structures and algorithms
+- 🔭 I’m currently working on: 
 - 🌱 I’m currently learning: System software
 - 📫 How to reach me: d.jastrzebski21@gmail.com
 - My leetcode: https://leetcode.com/user4515dp/
